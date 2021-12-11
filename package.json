@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@craco/craco": "^5.6.3",
+    "@craco/craco": "^6.4.1",
     "@makerdao/dai": "^0.32.9",
     "@makerdao/dai-plugin-config": "^0.2.14-rc.1",
     "@makerdao/dai-plugin-governance": "0.12.41-rc.1",
